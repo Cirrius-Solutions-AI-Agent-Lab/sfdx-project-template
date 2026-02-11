@@ -1,0 +1,3 @@
+[submodule "claude-dev-framework"]
+	path = claude-dev-framework
+	url = git@github.com:Cirrius-Solutions-AI-Agent-Lab/claude-dev-framework.git

@@ -1,0 +1,1 @@
+../../claude-dev-framework/commands/test.md

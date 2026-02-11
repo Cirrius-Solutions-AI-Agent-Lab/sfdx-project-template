@@ -1,0 +1,25 @@
+# List files or directories below to ignore the source from Salesforce CLI commands
+
+# LWC configuration files
+**/jsconfig.json
+**/.eslintrc.json
+
+# LWC Jest
+**/__tests__/**
+
+# Profiles (use Permission Sets instead)
+**/profiles/**
+
+# Translations
+**/translations/**
+
+# SFDX local files
+.sfdx
+.sf
+
+# IDE files
+.vscode
+.idea
+
+# OS files
+.DS_Store
